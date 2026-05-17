@@ -4,13 +4,13 @@
     "appFolder": ".wallpaper_countdown"
   },
   "github": {
-    "username": "TsofnatMaman",
+    "username": "AhuviBloy",
     "repository": "AutoCustomBackgroundDesktop",
     "branch": "main",
-    "imagePath": "backgrounds/1.jpg"
+    "imagePath": "backgrounds/3.png"
   },
   "wallpaper": {
-    "targetDate": "2126-04-20",
+    "targetDate": "2026-05-22",
     "text": "...עוד {days} ימים",
     "time": "00:30"
   }
