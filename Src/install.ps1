@@ -144,3 +144,4 @@ catch {
     Write-Host "Install failed: $($_.Exception.Message)"
     exit 1
 }
+# build trigger: 2026-05-17 (event 17.05.26)
